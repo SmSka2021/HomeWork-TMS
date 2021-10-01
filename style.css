@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hed{
+    background: url(./img/55.jpg) no-repeat;
+    background-size: cover;
+    display: flex;
+}
+h1{
+    color: rgb(20, 20, 117);
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 5px 5px 3px rgb(241, 239, 241);
+    padding-left: 115px;
+    padding-top:50px;
+}
+h2{
+    color:rgb(239, 235, 241);
+    background-color: rgb(20, 20, 117);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    color: rgb(38, 19, 68);
+    background-color: rgb(171, 186, 238);
+    font-size: 20px;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    
+    letter-spacing: 1px;
+    
+    
+}
+.hoby{
+    display: flex;
+    background-color:rgb(171, 186, 238);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(23, 9, 46);
+    font-size: 20px;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.tabl_1{
+    font-size:25px;       
+}
+.sport{
+    padding-left: 7px; 
+    margin-left: 35px;
+    color: rgb(5, 59, 23);
+}
+.video{
+    text-align: center;
+    color:rgb(77, 15, 5)
+}
+h3{
+    padding-bottom: 10px;
+}
+.map{
+    font-size:23px; 
+    font-weight: bold; 
+    color:rgb(14, 56, 56)
+   
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    border:green dashed;
+    margin-bottom: 20px;
+}
+.first{
+    background:greenyellow
+}
+.footer{
+    display: flex;
+    background-color:rgb(20, 20, 117);
+    padding-left: 500px;
+   
+}
+.footer h4{
+   
+    color: rgb(243, 245, 240);
+    font-size: 23px; 
+    font-weight: bold; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 170px;
+
+}
+ .footer a{
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+}
+.footer img{
+    transform: scale(1);
+    box-shadow: 3px 4px 5px white;
+    transition: .5s all;      
+}
+.footer img:hover{
+    transform: scale(1.4);
+}
