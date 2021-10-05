@@ -59,13 +59,15 @@ h3{
     font-size:23px; 
     font-weight: bold; 
     color:rgb(14, 56, 56)
-   
 }
 table{
     text-align: center;
     border-collapse: collapse;
     border: 1px green dashed;
     margin-bottom: 20px;
+}
+td{
+    border: 1px green dashed;  
 }
 .first{
     background:greenyellow
