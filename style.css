@@ -29,10 +29,7 @@ p{
     font-size: 20px;   
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 15px;
-    
     letter-spacing: 1px;
-    
-    
 }
 .hoby{
     display: flex;
@@ -67,7 +64,7 @@ h3{
 table{
     text-align: center;
     border-collapse: collapse;
-    border:green dashed;
+    border: 1px green dashed;
     margin-bottom: 20px;
 }
 .first{
